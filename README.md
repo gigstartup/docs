@@ -13,5 +13,6 @@ Learn more:
 
 Coming soon:
 
-* Accepted corporate articles and agreements that meet the principles of a Gigstartup, and are available for use under OSS license.
+* General rubric of what makes a Gigstartup company
+* Approved corporate articles and agreements that meet the principles of a Gigstartup, and are available for use under OSS license.
 
